@@ -1,0 +1,15 @@
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\bin\Debug\net6.0\MegTask.exe
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\bin\Debug\net6.0\MegTask.deps.json
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\bin\Debug\net6.0\MegTask.runtimeconfig.json
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\bin\Debug\net6.0\MegTask.dll
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\bin\Debug\net6.0\MegTask.pdb
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\obj\Debug\net6.0\MegTask.csproj.AssemblyReference.cache
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\obj\Debug\net6.0\MegTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\obj\Debug\net6.0\MegTask.AssemblyInfoInputs.cache
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\obj\Debug\net6.0\MegTask.AssemblyInfo.cs
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\obj\Debug\net6.0\MegTask.csproj.CoreCompileInputs.cache
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\obj\Debug\net6.0\MegTask.dll
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\obj\Debug\net6.0\refint\MegTask.dll
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\obj\Debug\net6.0\MegTask.pdb
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\obj\Debug\net6.0\MegTask.genruntimeconfig.cache
+D:\Домашнее задание и просто работа\Контрольная работа\MegTask\obj\Debug\net6.0\ref\MegTask.dll
